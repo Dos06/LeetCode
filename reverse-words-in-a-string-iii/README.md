@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/8/2021 at 16:25)](https://leetcode.com/problems/reverse-words-in-a-string-iii/discuss/1464799/Simple-Java-Solution)  
 <h2>557. Reverse Words in a String III</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.</p>
 
 <p>&nbsp;</p>
